@@ -1,0 +1,13 @@
+project_id         = ""
+org_id             = ""
+billing_account_id = ""
+
+# only needed if using GitHub
+github_owner       = ""
+github_token       = ""
+
+# only needed if using CircleCI
+circelci_vcs                 = ""
+circleci_org                 = ""
+circleci_context             = ""
+circleci_context_secret_name = ""
