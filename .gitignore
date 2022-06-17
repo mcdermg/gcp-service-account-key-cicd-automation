@@ -48,3 +48,7 @@ terraform.rc
 
 # temp for testing
 **/key.json
+
+# Swap files
+*.swp
+*.swo
